@@ -1,0 +1,10 @@
+C:\Users\jean1\OneDrive\Escritorio\Practicas_POO\Covid-19\Covid-19\bin\Debug\Covid-19.exe.config
+C:\Users\jean1\OneDrive\Escritorio\Practicas_POO\Covid-19\Covid-19\bin\Debug\Covid-19.exe
+C:\Users\jean1\OneDrive\Escritorio\Practicas_POO\Covid-19\Covid-19\bin\Debug\Covid-19.pdb
+C:\Users\jean1\OneDrive\Escritorio\Practicas_POO\Covid-19\Covid-19\obj\Debug\Covid-19.csproj.AssemblyReference.cache
+C:\Users\jean1\OneDrive\Escritorio\Practicas_POO\Covid-19\Covid-19\obj\Debug\Covid_19.FrmCovid19.resources
+C:\Users\jean1\OneDrive\Escritorio\Practicas_POO\Covid-19\Covid-19\obj\Debug\Covid_19.Properties.Resources.resources
+C:\Users\jean1\OneDrive\Escritorio\Practicas_POO\Covid-19\Covid-19\obj\Debug\Covid-19.csproj.GenerateResource.cache
+C:\Users\jean1\OneDrive\Escritorio\Practicas_POO\Covid-19\Covid-19\obj\Debug\Covid-19.csproj.CoreCompileInputs.cache
+C:\Users\jean1\OneDrive\Escritorio\Practicas_POO\Covid-19\Covid-19\obj\Debug\Covid-19.exe
+C:\Users\jean1\OneDrive\Escritorio\Practicas_POO\Covid-19\Covid-19\obj\Debug\Covid-19.pdb
